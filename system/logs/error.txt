@@ -1,0 +1,6 @@
+2013-10-04 15:47:05 - PHP Notice:  Error: Could not load language module/themecontrol! in C:\Program Files\BitNami WAMPStack\apache2\htdocs\opencart_v1.5.5\upload\system\library\language.php on line 35
+2013-10-04 15:50:04 - PHP Notice:  Error: Could not load language module/themecontrol! in C:\Program Files\BitNami WAMPStack\apache2\htdocs\opencart_v1.5.5\upload\system\library\language.php on line 35
+2013-10-21 10:45:04 - PHP Notice:  Undefined variable: image in C:\Program Files\BitNami WAMPStack\apache2\htdocs\opencart_v1.5.5\upload\catalog\view\theme\default\template\product\product.tpl on line 17
+2013-11-02 21:00:33 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\Program Files\BitNami WAMPStack\apache2\htdocs\opencart_v1.5.5\upload\catalog\model\catalog\category.php on line 5
+2013-11-02 21:00:33 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\Program Files\BitNami WAMPStack\apache2\htdocs\opencart_v1.5.5\upload\catalog\model\catalog\category.php on line 5
+2013-11-03 18:15:08 - PHP Notice:  Error: Could not load template C:\Program Files\BitNami WAMPStack\apache2\htdocs\opencart_v1.5.5\upload/catalog/view/theme/default/template/product/product.tpl! in C:\Program Files\BitNami WAMPStack\apache2\htdocs\opencart_v1.5.5\upload\system\engine\controller.php on line 70
